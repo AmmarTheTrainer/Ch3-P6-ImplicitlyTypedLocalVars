@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\Projects\Ch3-P6-ImplicitlyTypedLocalVars\Ch3-P6-ImplicitlyTypedLocalVars\bin\Debug\Ch3-P6-ImplicitlyTypedLocalVars.exe.config
+C:\Users\Lenovo\Documents\Projects\Ch3-P6-ImplicitlyTypedLocalVars\Ch3-P6-ImplicitlyTypedLocalVars\bin\Debug\Ch3-P6-ImplicitlyTypedLocalVars.exe
+C:\Users\Lenovo\Documents\Projects\Ch3-P6-ImplicitlyTypedLocalVars\Ch3-P6-ImplicitlyTypedLocalVars\bin\Debug\Ch3-P6-ImplicitlyTypedLocalVars.pdb
+C:\Users\Lenovo\Documents\Projects\Ch3-P6-ImplicitlyTypedLocalVars\Ch3-P6-ImplicitlyTypedLocalVars\obj\Debug\Ch3-P6-ImplicitlyTypedLocalVars.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Projects\Ch3-P6-ImplicitlyTypedLocalVars\Ch3-P6-ImplicitlyTypedLocalVars\obj\Debug\Ch3-P6-ImplicitlyTypedLocalVars.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Projects\Ch3-P6-ImplicitlyTypedLocalVars\Ch3-P6-ImplicitlyTypedLocalVars\obj\Debug\Ch3-P6-ImplicitlyTypedLocalVars.exe
+C:\Users\Lenovo\Documents\Projects\Ch3-P6-ImplicitlyTypedLocalVars\Ch3-P6-ImplicitlyTypedLocalVars\obj\Debug\Ch3-P6-ImplicitlyTypedLocalVars.pdb
