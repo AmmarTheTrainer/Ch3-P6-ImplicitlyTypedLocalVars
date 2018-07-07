@@ -14,7 +14,7 @@ namespace Ch3_P6_ImplicitlyTypedLocalVars
             //DeclareImplicitVars();
             //RestrictionsOnVarKeyword();
             //ImplicitTypingIsStrongTyping();
-            LinqQueryOverInts();
+            //LinqQueryOverInts();
 
             Console.ReadLine();
         }
