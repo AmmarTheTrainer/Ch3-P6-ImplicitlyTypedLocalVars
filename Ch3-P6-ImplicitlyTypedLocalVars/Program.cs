@@ -18,6 +18,8 @@ namespace Ch3_P6_ImplicitlyTypedLocalVars
 
             Console.WriteLine(" this is for commit no 5 ");
 
+            Console.WriteLine(" this is for commit 6 < 1 line addd >  ");
+
             Console.ReadLine();
         }
     }
