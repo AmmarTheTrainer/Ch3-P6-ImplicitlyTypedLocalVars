@@ -12,7 +12,7 @@ namespace Ch3_P6_ImplicitlyTypedLocalVars
         {
             Console.WriteLine(" welcome back to full stack .NET batch 1 ");
 
-
+            Console.WriteLine(" Hello friends chaye pe lo...! ");
 
             Console.ReadLine();
         }
