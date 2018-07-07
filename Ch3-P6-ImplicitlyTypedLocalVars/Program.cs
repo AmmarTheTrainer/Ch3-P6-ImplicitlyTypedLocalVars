@@ -16,6 +16,8 @@ namespace Ch3_P6_ImplicitlyTypedLocalVars
 
             Console.WriteLine(" hello friends 1 bar phr chae pe lo... < commit no 4 >  ");
 
+            Console.WriteLine(" this is for commit no 5 ");
+
             Console.ReadLine();
         }
     }
